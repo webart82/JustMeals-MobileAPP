@@ -4,7 +4,7 @@
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "com.justmeals.mobileapp100"
     versionCode = "10"
-    version   = "1.0.0">
+    version   = "1.1.1">
     <name>Just Meals Mobile App</name>
     <description>
         Just Meals mobile app version
@@ -38,7 +38,7 @@
 	<gap:plugin name="cordova.plugins.diagnostic" source="npm" />	
 	
 	<gap:plugin name="cordova-plugin-googlemaps"  source="npm" spec="1.3.9">
-	   <param name="API_KEY_FOR_ANDROID" value="AIzaSyBVVs8LB1b1KxbeQIMmp7kuPtOF4w5x-Sw" />
+	   <param name="API_KEY_FOR_ANDROID" value="AIzaSyATp_CgHp7QAaWtU61clqGsdWRqL8Ld630" />
 	   <param name="API_KEY_FOR_IOS" value="XXX" />
 	</gap:plugin>
 	
